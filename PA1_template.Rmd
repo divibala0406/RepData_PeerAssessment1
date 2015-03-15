@@ -1,6 +1,6 @@
 ---
 #title: "Reproducible Research Peer Assignment 1"
-#output: "html_document"
+#output: "markdown file, html file, graphs in figures directory"
 ---
 
 ##Loading and preprocessing data
